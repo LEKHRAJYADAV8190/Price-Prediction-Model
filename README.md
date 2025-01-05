@@ -57,7 +57,7 @@ The trained Linear Regression model is evaluated using the following metrics:
 ### Visualization
 The project includes a scatter plot to compare actual and predicted prices, highlighting the model's performance visually:
 
-![Actual vs Predicted Prices](image.png)
+![Actual vs Predicted Prices](preprocess_and_trainmodel.ipynb)
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs or improvements.
